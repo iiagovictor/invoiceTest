@@ -1,0 +1,14 @@
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\bin\Debug\netcoreapp3.1\TestExercice.exe
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\bin\Debug\netcoreapp3.1\TestExercice.deps.json
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\bin\Debug\netcoreapp3.1\TestExercice.runtimeconfig.json
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\bin\Debug\netcoreapp3.1\TestExercice.runtimeconfig.dev.json
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\bin\Debug\netcoreapp3.1\TestExercice.dll
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\bin\Debug\netcoreapp3.1\TestExercice.pdb
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\obj\Debug\netcoreapp3.1\TestExercice.csproj.AssemblyReference.cache
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\obj\Debug\netcoreapp3.1\TestExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\obj\Debug\netcoreapp3.1\TestExercice.AssemblyInfoInputs.cache
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\obj\Debug\netcoreapp3.1\TestExercice.AssemblyInfo.cs
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\obj\Debug\netcoreapp3.1\TestExercice.csproj.CoreCompileInputs.cache
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\obj\Debug\netcoreapp3.1\TestExercice.dll
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\obj\Debug\netcoreapp3.1\TestExercice.pdb
+C:\Users\rhitm\OneDrive\Área de Trabalho\Asynchronous\TestExercice\TestExercice\obj\Debug\netcoreapp3.1\TestExercice.genruntimeconfig.cache
